@@ -13,7 +13,7 @@
 
 //Initializing LED Pin
 //the LED is connected on the digital pin D0
-#define led_pin D13
+#define led_pin D0
 
 void setup() {
   //Declaring LED pin as output
